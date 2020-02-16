@@ -1,0 +1,88 @@
+*{
+	font-family: Montserrat,sans-serif;
+	letter-spacing: .4px;
+}
+body{
+	position: relative;
+}
+.jumbotron-custom{
+	height: 10px;
+	border-radius: 0!important;
+	position: relative;
+	top:30px;
+	padding-top: 13px;
+	padding-bottom: 44px;
+
+}
+
+section{
+	padding-top: 40px;
+}
+.jumbotron img{
+	width: 133px;
+	margin-top: -3px;
+}
+
+.ul_Details{
+	list-style: none;
+	width: 100%;
+
+}
+.ul_Details li{
+	
+	width: 19%;
+	display: inline-block;
+
+}
+.ul_Details li p{
+	
+	line-height: 0px;
+	color: grey;
+
+}
+.circle{
+	border: 2px solid grey;
+	border-radius: 50%;
+	height: 210px;
+	width: 210px;
+	padding:5px;
+	border-left: 6px solid #14d29d;
+}
+.artice_box{
+	border:1px solid #80808029;
+	margin-bottom: 5px;
+}
+.artice_box h4{
+	font-size: 17px;
+}
+.left_Block{
+	display:inline;
+}
+.right_Block{
+	display: inherit;
+	margin-left: 10px;
+}
+.left_Block i{
+	vertical-align: super;
+}
+aside,article{
+	margin-top: 40px;
+}
+.article_right_box{
+	background: #008068c2;
+	height: 60px;
+	color: white;
+	padding: 0px 39px;
+	font-weight: bold;
+}
+.custom_Button{
+	border-radius: 0;
+	background-color: #1ab99bc9;
+	padding: 5px 28px;
+	border: none;
+	margin-top:15px;
+}
+span{
+	font-size: 13px;
+	color: grey;
+}

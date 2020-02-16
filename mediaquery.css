@@ -1,0 +1,31 @@
+@media screen and (max-width: 480px) {
+	section {
+		padding: 0 !important;
+		
+	}
+	.ul_Details li {
+		width: 100%;
+		display: inline-block;
+	}
+	aside{
+		margin-left: 43px;
+	}
+	.artice_box h4 {
+		font-size: 15px;
+	}
+	span {
+		font-size: 10px;
+		color: grey;
+	}
+	.artice_box > h4{
+		margin-bottom: 2px;
+	}
+	.article_right_box{
+		height: 66px;
+		padding: 0px 7px;
+	}
+	.custom_Button{
+		margin-bottom: 5px;
+		
+	}
+}
